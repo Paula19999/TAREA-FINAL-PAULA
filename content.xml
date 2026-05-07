@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605071033323KCM7H</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507103332V3JA69</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA Detectives de Letras.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proyecto de Lectoescritura y Competencia Digital - 4 años.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Paula García Escobar</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto para trabajar el reconocimiento de lertas y el uso de tablets (y herramientas en PDI) en Educación Infantil.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778083795703</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>c412047f-86c9-4945-a7a0-26a8bfc923ad</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>c412047f-86c9-4945-a7a0-26a8bfc923ad</odePageId>
+      <odeBlockId>block-1778077557420-8b4gvujf3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>c412047f-86c9-4945-a7a0-26a8bfc923ad</odePageId>
+          <odeBlockId>block-1778077557420-8b4gvujf3</odeBlockId>
+          <odeIdeviceId>idevice-1778077557418-7dz4hb466</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Guía Didáctica presenta el proyecto 'Detectives de Letras' para el nivel de 4 años. El objetivo es integrar el uso de tablets y Pizarra Digital Interactiva (PDI) en el proceso de lectoescritura, siguiendo la normativa vigente (Orden de 30 de mayo de 2023). En los siguientes apartados encontrarás el desglose técnico de los criterios (tarea 6.1) y las herramientas utilizadas.</p>
+<p>No obstante, facilito a continuación la asociación de criterios de evaluación a las tareas establecidas.<img src="asset://81dc2e96-aed3-5821-f611-ebc7aad43ee7.png" width="864" height="391" alt="" /></p>
+<p><img src="asset://39652f97-0a65-8c8f-dae0-0e091e4b73ce.png" width="864" height="498" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778077557418-7dz4hb466","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Guía Didáctica presenta el proyecto 'Detectives de Letras' para el nivel de 4 años. El objetivo es integrar el uso de tablets y Pizarra Digital Interactiva (PDI) en el proceso de lectoescritura, siguiendo la normativa vigente (Orden de 30 de mayo de 2023). En los siguientes apartados encontrarás el desglose técnico de los criterios (tarea 6.1) y las herramientas utilizadas.</p>\n<p>No obstante, facilito a continuación la asociación de criterios de evaluación a las tareas establecidas.<img src=\"asset://81dc2e96-aed3-5821-f611-ebc7aad43ee7.png\" width=\"864\" height=\"391\" alt=\"\" /></p>\n<p><img src=\"asset://39652f97-0a65-8c8f-dae0-0e091e4b73ce.png\" width=\"864\" height=\"498\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778076519176-fbp61ab1w</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 2.1. Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2.1. Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 2.1. Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778076519176-fbp61ab1w</odePageId>
+      <odeBlockId>block-1778078420063-2pbm7wdv9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778076519176-fbp61ab1w</odePageId>
+          <odeBlockId>block-1778078420063-2pbm7wdv9</odeBlockId>
+          <odeIdeviceId>idevice-1778078420062-eqrm9fo1o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="exe-node:page-1778076519176-fbp61ab1w" target="_blank" title="" rel="noopener"><strong>¡BIENVENIDOS AL PROYECTO: DETECTIVES DE LETRAS!</strong> </a>🕵️‍♂️🔍</p>
+<p>Nivel: 4 años (Educación Infantil).</p>
+<p><strong>¿De qué trata? </strong>Nuestro amigo Piolín está muy triste porque se han escapado todas las letras de su abecedario digital. ¡Necesitamos a los mejores detectives de la clase para encontrarlas!</p>
+<p>Usaremos tablets, lupas y plastilina para capturar las letras y devolverlas a su sitio. ¿Estáis listos para la misión?<img src="asset://20eb95fd-4ffd-ab27-0db4-5e10c27aefd1.png" width="189" height="268" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778078420062-eqrm9fo1o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"exe-node:page-1778076519176-fbp61ab1w\" target=\"_blank\" title=\"\" rel=\"noopener\"><strong>¡BIENVENIDOS AL PROYECTO: DETECTIVES DE LETRAS!</strong> </a>🕵️‍♂️🔍</p>\n<p>Nivel: 4 años (Educación Infantil).</p>\n<p><strong>¿De qué trata? </strong>Nuestro amigo Piolín está muy triste porque se han escapado todas las letras de su abecedario digital. ¡Necesitamos a los mejores detectives de la clase para encontrarlas!</p>\n<p>Usaremos tablets, lupas y plastilina para capturar las letras y devolverlas a su sitio. ¿Estáis listos para la misión?<img src=\"asset://20eb95fd-4ffd-ab27-0db4-5e10c27aefd1.png\" width=\"189\" height=\"268\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778077258548-thrdwhjmy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 2.3. Protección de datos.</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 2.3. Protección de datos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 2.3. Protección de datos.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778077258548-thrdwhjmy</odePageId>
+      <odeBlockId>block-1778080876823-3k7a1wsqe</odeBlockId>
+      <blockName>Protección de datos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778077258548-thrdwhjmy</odePageId>
+          <odeBlockId>block-1778080876823-3k7a1wsqe</odeBlockId>
+          <odeIdeviceId>idevice-1778080876819-m58df90tk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En nuestra misión de detectives, vamos a usar las tablets para hacer fotos de las letras. Pero como buenos detectives, tenemos que <strong>cumplir unas reglas</strong>. Para conocerlas y acceder a la tarea, pinche aquí: <a href="exe-node:page-1778077258548-thrdwhjmy" target="_blank" title="" rel="noopener">Tarea 2.3.</a></p>
+<p><a href="exe-node:page-1778077258548-thrdwhjmy" target="_blank" title="" rel="noopener"><img src="asset://b454dbc5-10d3-6ec3-59f0-a0f06b24e405.png" width="800" height="2000" alt="Infografía en png" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778080876819-m58df90tk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En nuestra misión de detectives, vamos a usar las tablets para hacer fotos de las letras. Pero como buenos detectives, tenemos que <strong>cumplir unas reglas</strong>. Para conocerlas y acceder a la tarea, pinche aquí: <a href=\"exe-node:page-1778077258548-thrdwhjmy\" target=\"_blank\" title=\"\" rel=\"noopener\">Tarea 2.3.</a></p>\n<p><a href=\"exe-node:page-1778077258548-thrdwhjmy\" target=\"_blank\" title=\"\" rel=\"noopener\"><img src=\"asset://b454dbc5-10d3-6ec3-59f0-a0f06b24e405.png\" width=\"800\" height=\"2000\" alt=\"Infografía en png\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778077265275-2022ivveq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 4.1. Descripción del producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 4.1. Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 4.1. Descripción del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778077265275-2022ivveq</odePageId>
+      <odeBlockId>block-1778081261390-4bfikp9i0</odeBlockId>
+      <blockName>Descripción del producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778077265275-2022ivveq</odePageId>
+          <odeBlockId>block-1778081261390-4bfikp9i0</odeBlockId>
+          <odeIdeviceId>idevice-1778081261388-z5tps11t7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎯 <strong>PRODUCTO FINAL: LA RULETA MÁGICA DE LAS LETRAS</strong> (Wordwall)<br />Como detectives expertos, el final de nuestra misión será fabricar nuestra propia Ruleta Interactiva de Wordwall. </p>
+<p>👩‍🎨 <em>¿Cómo lo vamos a hacer?</em><em></em></p>
+<ul>
+<li><strong><em>Personalización: </em></strong>Los niños y niñas elegirán las fotos de sus propias letras de plastilina y dibujos para meterlas en la ruleta. ¡Será un juego con nuestras caras y trabajos!</li>
+<li><strong><em>Accesibilidad (DUA):</em></strong> Al girar, no sólo veremos la letra, sino que también escucharemos el sonido de la letra o palabra, para que todos podamos jugar sin necesidad de saber leer todavía.</li>
+<li><strong><em>Ayudantes Técnicos:</em> </strong>Aprenderemos a manejar la Pizarra Digital (PDI). Si el puntero falla, el "Ayudante de Piolín" ayudará a arreglarlo.</li>
+<li><strong><em>Objetivo: </em></strong>Pasar de usar juegos de otros a ser capaces de crear nuestros propios juegos digitales y resolver los pequeños problemas que surjan con la tecnología</li>
+</ul>
+<p><img src="asset://0a36235e-9608-68bb-82d0-d630178d0ccf.png" width="864" height="409" alt="Comentario en foro" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778081261388-z5tps11t7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🎯 <strong>PRODUCTO FINAL: LA RULETA MÁGICA DE LAS LETRAS</strong> (Wordwall)<br />Como detectives expertos, el final de nuestra misión será fabricar nuestra propia Ruleta Interactiva de Wordwall. </p>\n<p>👩‍🎨 <em>¿Cómo lo vamos a hacer?</em><em></em></p>\n<ul>\n<li><strong><em>Personalización: </em></strong>Los niños y niñas elegirán las fotos de sus propias letras de plastilina y dibujos para meterlas en la ruleta. ¡Será un juego con nuestras caras y trabajos!</li>\n<li><strong><em>Accesibilidad (DUA):</em></strong> Al girar, no sólo veremos la letra, sino que también escucharemos el sonido de la letra o palabra, para que todos podamos jugar sin necesidad de saber leer todavía.</li>\n<li><strong><em>Ayudantes Técnicos:</em> </strong>Aprenderemos a manejar la Pizarra Digital (PDI). Si el puntero falla, el \"Ayudante de Piolín\" ayudará a arreglarlo.</li>\n<li><strong><em>Objetivo: </em></strong>Pasar de usar juegos de otros a ser capaces de crear nuestros propios juegos digitales y resolver los pequeños problemas que surjan con la tecnología</li>\n</ul>\n<p><img src=\"asset://0a36235e-9608-68bb-82d0-d630178d0ccf.png\" width=\"864\" height=\"409\" alt=\"Comentario en foro\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778077273239-i5ttr156e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 5.1. Herramientas de curación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 5.1. Herramientas de curación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 5.1. Herramientas de curación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778077273239-i5ttr156e</odePageId>
+      <odeBlockId>block-1778081759945-lmmyjzj8n</odeBlockId>
+      <blockName>Curación de contenidos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778077273239-i5ttr156e</odePageId>
+          <odeBlockId>block-1778081759945-lmmyjzj8n</odeBlockId>
+          <odeIdeviceId>idevice-1778081759942-3jlrap0xc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para que nuestra misión de detectives sea un éxito, hemos organizado todos los recursos digitales en dos espacios diferentes:</p>
+<p>🔍 <strong>1. Muro de Recursos para el Alumnado (Padlet)</strong></p>
+<p>En este espacio, los pequeños detectives encontrarán los vídeos de Piolín, juegos de letras y ejemplos de sus compañeros. Es un entorno visual y seguro.</p>
+<p>Acceso al muro: <a href="https://padlet.com/pgaresc520/recursos-de-detectives-de-letras-lnf4c4cde4sshhgw" target="_blank" rel="noopener" title="">Recursos de Detectives de Letras</a></p>
+<p><img src="asset://1c3f963f-7b00-e5eb-aa45-3bec57d740f8" width="864" height="391" alt="Padlet" /></p>
+<p>🛠️ <strong>2. Panel de Herramientas para el Docente (Symbaloo)</strong><br />Este es el rincón del profesorado, donde se organizan las aplicaciones para gestionar la clase, crear los juegos de Wordwall y evaluar el proyecto.</p>
+<p>Acceso al panel: <a href="https://www.symbaloo.com/mix/recursos-y-herramientas-ekvm" target="_blank" rel="noopener" title="">Recursos y Herramientas SdA</a></p>
+<p><img src="asset://8020b64b-7d2d-f764-6d28-1a4979b30747" width="864" height="695" alt="Symbaloo" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778081759942-3jlrap0xc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para que nuestra misión de detectives sea un éxito, hemos organizado todos los recursos digitales en dos espacios diferentes:</p>\n<p>🔍 <strong>1. Muro de Recursos para el Alumnado (Padlet)</strong></p>\n<p>En este espacio, los pequeños detectives encontrarán los vídeos de Piolín, juegos de letras y ejemplos de sus compañeros. Es un entorno visual y seguro.</p>\n<p>Acceso al muro: <a href=\"https://padlet.com/pgaresc520/recursos-de-detectives-de-letras-lnf4c4cde4sshhgw\" target=\"_blank\" rel=\"noopener\" title=\"\">Recursos de Detectives de Letras</a></p>\n<p><img src=\"asset://1c3f963f-7b00-e5eb-aa45-3bec57d740f8\" width=\"864\" height=\"391\" alt=\"Padlet\" /></p>\n<p>🛠️ <strong>2. Panel de Herramientas para el Docente (Symbaloo)</strong><br />Este es el rincón del profesorado, donde se organizan las aplicaciones para gestionar la clase, crear los juegos de Wordwall y evaluar el proyecto.</p>\n<p>Acceso al panel: <a href=\"https://www.symbaloo.com/mix/recursos-y-herramientas-ekvm\" target=\"_blank\" rel=\"noopener\" title=\"\">Recursos y Herramientas SdA</a></p>\n<p><img src=\"asset://8020b64b-7d2d-f764-6d28-1a4979b30747\" width=\"864\" height=\"695\" alt=\"Symbaloo\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778077279730-mxli1lfgr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 7.1. Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 7.1. Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 7.1. Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778077279730-mxli1lfgr</odePageId>
+      <odeBlockId>block-1778082234540-8lf6bo9h3</odeBlockId>
+      <blockName>Línea Temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778077279730-mxli1lfgr</odePageId>
+          <odeBlockId>block-1778082234540-8lf6bo9h3</odeBlockId>
+          <odeIdeviceId>idevice-1778082234536-v41y97nqk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este cronograma podéis ver las fases de nuestra aventura de detectives:</p>
+<p style="text-align: justify;"><em>1. Mensaje de Piolín</em></p>
+<p style="text-align: justify;"><em>2. Investigación de letras</em></p>
+<p style="text-align: justify;"><em>3. ¡Foto!</em></p>
+<p style="text-align: justify;"><em>4. Ruleta de letras </em></p>
+<p><img src="asset://84c1cae7-4fb2-9f5e-ba86-1d3d07bfaa68.jpg" width="864" height="611" alt="Línea Temporal" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778082234536-v41y97nqk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este cronograma podéis ver las fases de nuestra aventura de detectives:</p>\n<p style=\"text-align: justify;\"><em>1. Mensaje de Piolín</em></p>\n<p style=\"text-align: justify;\"><em>2. Investigación de letras</em></p>\n<p style=\"text-align: justify;\"><em>3. ¡Foto!</em></p>\n<p style=\"text-align: justify;\"><em>4. Ruleta de letras </em></p>\n<p><img src=\"asset://84c1cae7-4fb2-9f5e-ba86-1d3d07bfaa68.jpg\" width=\"864\" height=\"611\" alt=\"Línea Temporal\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778077286729-x1jp5t4s0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 6.1. Criterios de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 6.1. Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 6.1. Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778077286729-x1jp5t4s0</odePageId>
+      <odeBlockId>block-1778082491757-fneqjt4o6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778077286729-x1jp5t4s0</odePageId>
+          <odeBlockId>block-1778082491757-fneqjt4o6</odeBlockId>
+          <odeIdeviceId>idevice-1778082491755-8pmz2v1iy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado se detallan los contenidos curriculares que sustentan el proyecto "Detectives de Letras", relacionando cada reto con sus <strong>criterios de evaluación </strong>correspondientes. En el siguiente enlace puede acceder a su visualización:</p>
+<p><a href="https://docs.google.com/document/d/19x9wKMvd2DQ08kMOA5VOzDGBe9XD_UC-/edit?usp=sharing&amp;ouid=110362523884429266854&amp;rtpof=true&amp;sd=true" target="_blank" title="" rel="noopener">Tarea 6.1</a></p>
+<p><a href="https://docs.google.com/document/d/19x9wKMvd2DQ08kMOA5VOzDGBe9XD_UC-/edit#heading=h.rmrpihc4guef">https://docs.google.com/document/d/19x9wKMvd2DQ08kMOA5VOzDGBe9XD_UC-/edit#heading=h.rmrpihc4guef</a> </p>
+<p>Este proyecto ha sido diseñado para ser fácilmente adaptable a otras SdA de lectoescritura, permitiendo cambiar las imágenes de la ruleta según el centro de interés de la clase.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778082491755-8pmz2v1iy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado se detallan los contenidos curriculares que sustentan el proyecto \"Detectives de Letras\", relacionando cada reto con sus <strong>criterios de evaluación </strong>correspondientes. En el siguiente enlace puede acceder a su visualización:</p>\n<p><a href=\"https://docs.google.com/document/d/19x9wKMvd2DQ08kMOA5VOzDGBe9XD_UC-/edit?usp=sharing&amp;ouid=110362523884429266854&amp;rtpof=true&amp;sd=true\" target=\"_blank\" title=\"\" rel=\"noopener\">Tarea 6.1</a></p>\n<p><a href=\"https://docs.google.com/document/d/19x9wKMvd2DQ08kMOA5VOzDGBe9XD_UC-/edit#heading=h.rmrpihc4guef\">https://docs.google.com/document/d/19x9wKMvd2DQ08kMOA5VOzDGBe9XD_UC-/edit#heading=h.rmrpihc4guef</a> </p>\n<p>Este proyecto ha sido diseñado para ser fácilmente adaptable a otras SdA de lectoescritura, permitiendo cambiar las imágenes de la ruleta según el centro de interés de la clase.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778077293363-b6jqd52i7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tarea 8.1. Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tarea 8.1. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Tarea 8.1. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778077293363-b6jqd52i7</odePageId>
+      <odeBlockId>block-1778083203861-cszw7cqxm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778077293363-b6jqd52i7</odePageId>
+          <odeBlockId>block-1778083203861-cszw7cqxm</odeBlockId>
+          <odeIdeviceId>idevice-1778083203860-v62men68k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎯 <strong>¿CÓMO MEDIMOS NUESTROS LOGROS?</strong><br />En este proyecto evaluamos de dos formas: observando el trabajo diario y escuchando lo que los propios niños y niñas sienten que han aprendido. Enlace a la actividad realizada: <a href="https://docs.google.com/document/d/1etaiArsCFaK3ppAD9a4q3h0b32RiABK7aBL4cDPnOac/edit?usp=sharing" target="_blank" title="" rel="noopener">Tarea 8.1</a></p>
+<p>📝<strong> 1. Escala de Observación (Para el Docente)</strong><br />Esta herramienta permite registrar el progreso en el uso de la tablet, el modelado de la letra y la participación en la ruleta de Wordwall.</p>
+<p>Acceso a la escala de observación: <a href="https://docs.google.com/document/d/1vjjdecwQox99xyPgh8iM6aNWfn3oqyeteCrmJhnZteA/edit?usp=sharing" target="_blank" rel="noopener" title="">Pincha aquí para ver la Escala de Observación</a></p>
+<p><img src="asset://4be9bf4f-98c8-eb02-712f-4687fa2d65b9.png" width="623" height="304" alt="" /><br />🎯 <strong>2. Diana de Autoevaluación (Para el Alumnado)</strong><br />Es nuestra "Diana de los Detectives". Los niños y niñas  arrastran estrellas en la PDI para contarnos cómo creen que lo han hecho en cuatro áreas: escuchar, hacer la letra, cuidar la tablet y usar adecuadamente la ruleta.</p>
+<ul>
+<li>Nivel Rojo (Centro): ¡Lo he hecho genial!</li>
+<li>Nivel Celeste (Medio): Me ha costado un poco.</li>
+<li>Nivel Blanco (Fuera): Necesito ayuda.</li>
+</ul>
+<p>Acceso a la diana: <a href="https://canva.link/fgt4mdst3mn2291" target="_blank" title="" rel="noopener">Pincha aquí para ver la Diana de Autoevaluación</a></p>
+<p><img src="asset://84830ad6-811c-7ace-3e27-252f77df404f.png" width="864" height="606" alt="Diana de autoevaluación" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778083203860-v62men68k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🎯 <strong>¿CÓMO MEDIMOS NUESTROS LOGROS?</strong><br />En este proyecto evaluamos de dos formas: observando el trabajo diario y escuchando lo que los propios niños y niñas sienten que han aprendido. Enlace a la actividad realizada: <a href=\"https://docs.google.com/document/d/1etaiArsCFaK3ppAD9a4q3h0b32RiABK7aBL4cDPnOac/edit?usp=sharing\" target=\"_blank\" title=\"\" rel=\"noopener\">Tarea 8.1</a></p>\n<p>📝<strong> 1. Escala de Observación (Para el Docente)</strong><br />Esta herramienta permite registrar el progreso en el uso de la tablet, el modelado de la letra y la participación en la ruleta de Wordwall.</p>\n<p>Acceso a la escala de observación: <a href=\"https://docs.google.com/document/d/1vjjdecwQox99xyPgh8iM6aNWfn3oqyeteCrmJhnZteA/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">Pincha aquí para ver la Escala de Observación</a></p>\n<p><img src=\"asset://4be9bf4f-98c8-eb02-712f-4687fa2d65b9.png\" width=\"623\" height=\"304\" alt=\"\" /><br />🎯 <strong>2. Diana de Autoevaluación (Para el Alumnado)</strong><br />Es nuestra \"Diana de los Detectives\". Los niños y niñas  arrastran estrellas en la PDI para contarnos cómo creen que lo han hecho en cuatro áreas: escuchar, hacer la letra, cuidar la tablet y usar adecuadamente la ruleta.</p>\n<ul>\n<li>Nivel Rojo (Centro): ¡Lo he hecho genial!</li>\n<li>Nivel Celeste (Medio): Me ha costado un poco.</li>\n<li>Nivel Blanco (Fuera): Necesito ayuda.</li>\n</ul>\n<p>Acceso a la diana: <a href=\"https://canva.link/fgt4mdst3mn2291\" target=\"_blank\" title=\"\" rel=\"noopener\">Pincha aquí para ver la Diana de Autoevaluación</a></p>\n<p><img src=\"asset://84830ad6-811c-7ace-3e27-252f77df404f.png\" width=\"864\" height=\"606\" alt=\"Diana de autoevaluación\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778077300341-2xih9ay0s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778077300341-2xih9ay0s</odePageId>
+      <odeBlockId>block-1778083835616-nrcs2gaak</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778077300341-2xih9ay0s</odePageId>
+          <odeBlockId>block-1778083835616-nrcs2gaak</odeBlockId>
+          <odeIdeviceId>idevice-1778083835614-w8p7silp1</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA Detectives de Letras.</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Proyecto para trabajar el reconocimiento de lertas y el uso de tablets (y herramientas en PDI) en Educación Infantil.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Paula García Escobar</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
